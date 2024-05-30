@@ -25,7 +25,3 @@
     list-style: none;
     gap: 20px;
 }
-
-.navbar-left ul li {
-    cursor: pointer;
-}

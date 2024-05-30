@@ -1,10 +1,9 @@
 import React from 'react'
 import './Navbar.css'
-import logo from '../../assets/logo.png'
-import search_icon from '../../assets/search_icon.svg'
-import bell_icon from '../../assets/bell_icon.svg'
-import profile_img from '../../assets/profile_img.png'
-import caret_icon from '../../assets/caret_icon.svg'
+import logo from '../../assets/netflix_logo.png'
+import search_icon from '../../assets/search.png'
+import bell_icon from '../../assets/bell_icon.jpg'
+import profile_icon from '../../assets/profile.jpg'
 
 
 const Navbar = () => {
@@ -26,8 +25,8 @@ const Navbar = () => {
         <p>Children</p>
         <img src={bell_icon} alt="" className="icons" />
         <div className="navbar-profile">
-          <img src={profile_img} alt="" className="profile" />
-          <img src={caret_icon} alt="" />
+          <img src={bell_icon} alt="" className="profile" />
+          <img src={bell_icon} alt="" className="profile" />
         </div>
       </div>
     </div>

@@ -16,16 +16,6 @@
     gap: 50px;
 }
 
-.navbar-left img {
+,.navbar-left img {
     width: 90px;
-}
-
-.navbar-left ul {
-    display: flex;
-    list-style: none;
-    gap: 20px;
-}
-
-.navbar-left ul li {
-    cursor: pointer;
 }

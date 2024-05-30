@@ -1,10 +1,10 @@
 import React from 'react'
 import './Navbar.css'
-import logo from '../../assets/logo.png'
-import search_icon from '../../assets/search_icon.svg'
-import bell_icon from '../../assets/bell_icon.svg'
-import profile_img from '../../assets/profile_img.png'
-import caret_icon from '../../assets/caret_icon.svg'
+import logo from '../../assets/netflix_logo.png'
+import search_icon from '../../assets/search.png'
+import bell_icon from '../../assets/bell_icon.webp'
+import profile_img from '../../assets/profile.jpg'
+import caret_icon from '../../assets/dropdown.png'
 
 
 const Navbar = () => {
