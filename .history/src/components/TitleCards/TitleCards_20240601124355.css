@@ -1,0 +1,13 @@
+.title-cards {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.title-cards h2 {
+    margin-bottom: 8px;
+}
+
+.card_list {
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,10 @@
+.fotter {
+    padding: 30px 4%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.fotter-icons {
+    display: flex;
+    gap: 20px;
+}
